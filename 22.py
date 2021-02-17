@@ -11,7 +11,7 @@ class rectangle:
             return True
         else:
             return False
-print("**********************RETANGLE COMPARISON***********************")
+print("**********************RECTANGLE COMPARISON***********************")
 length1= int(input("Enter length of the rectangle 1 : "))
 width1 = int(input("Enter width of the rectangle  1 : "))
 length2 = int(input("Enter length of the rectangle  2  : "))
